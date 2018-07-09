@@ -1,3 +1,3 @@
-var gasp = [{"crk":"0002,0004,0016"},{"csw":"0005,0006,0017,0019"},{"en":"0002,0004,0005,0006,0016,0017,0019"},{"es":"0002,0004"},{"fr":"0002,0004,0005,0006,0017"},{"hdn":"0002,0004,0005,0006"},{"no":"0002,0004,0005,0006"},{"zh":"0002,0004,0005,0006"},];
+var gasp = [{"crk":"0002,0004,0016"},{"csw":"0005,0006,0017,0019"},{"en":"0002,0004,0005,0006,0016,0017,0019"},{"es":"0002,0004"},{"fr":"0002,0004,0005,0006,0016,0017,0019"},{"hdn":"0002,0004,0005,0006"},{"no":"0002,0004,0005,0006"},{"zh":"0002,0004,0005,0006"},];
 
 var names = [{"l":["crk","Plains Cree","ᓀᐦᐃᔭᐍᐏᐣ","nēhiyawēwin"]},{"l":["csw","Swampy Cree","Omaškêkowak"]},{"l":["en","English","English"]},{"l":["es","Spanish","Español"]},{"l":["fr","French","français"]},{"l":["hdn","Haida (Old Massett)","X̱aad Kil","Northern Haida"]},{"l":["no","Norwegian","norsk","bokmål","Bokmål","Norwegian (Bokmål)"]},{"l":["zh","Chinese (Mandarin)","中文","Mandarin","Chinese","Mandarin Chinese","Putonghua","普通话","汉语"]}];
